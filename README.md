@@ -39,3 +39,11 @@ Checkbox lists
 - [ ] Task
 - [x] Completed Task
 
+
+
+Footnotes
+
+
+[^1]: This is the footnote content.
+[^2]:
+[^3]:
