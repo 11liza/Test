@@ -29,3 +29,13 @@ Inline Links
 
 [Linkedin] (https://www.linkedin.com/in/liza-t%C3%A4llg%C3%A5rd-4967a122b/)
 [Github] (https://github.com/11liza)
+
+
+
+
+Checkbox lists
+
+
+- [ ] Task
+- [x] Completed Task
+
