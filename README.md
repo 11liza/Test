@@ -4,10 +4,10 @@ This is a test repository
 
 Headers
 
-Header 1
+# Header 1
 
-header 2
+# header 2
 
-header 3
+# header 3
 
-header 4
+# header 4
