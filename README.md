@@ -43,7 +43,7 @@ Checkbox lists
 
 Footnotes
 
+Here is some text with a footnote.[^1]
 
 [^1]: This is the footnote content.
-[^2]:
-[^3]:
+
